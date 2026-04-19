@@ -10,7 +10,7 @@ An AI-powered chatbot that lets you upload any PDF and ask
 questions about it using a RAG (Retrieval Augmented Generation)
 pipeline the same architecture used in enterprise AI systems.
 
-**[Live Demo](YOUR_STREAMLIT_URL)**
+**[Live Demo](https://ai-document-q-a-chatbot-with-rag-tfpturo3xuxoua63sxsbtd.streamlit.app/)**
 
 ---
 
